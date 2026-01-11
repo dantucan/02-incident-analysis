@@ -1,0 +1,47 @@
+================================================================================
+                     INCIDENT ANALYSIS - NETWORK INCIDENTS                      
+================================================================================
+Total incidents: 52
+Total kostnad: 445 910,10 SEK
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Critical: 8 | High: 15 | Medium: 16 | Low: 13
+Critical: 8 st (15%) - Genomsnitt: 131 min resolution, 28 015 SEK/incident
+High: 15 st (29%) - Genomsnitt: 103 min resolution, 9 522 SEK/incident
+Medium: 16 st (31%) - Genomsnitt: 111 min resolution, 3 579 SEK/incident
+Low: 13 st (25%) - Genomsnitt: 110 min resolution, 1 669 SEK/incident
+Incidents >100 affected users: 9
+Dyraste incidenter (Top 5):
+  TECH-2024-024  SW-ACCESS-03  Huvudkontor  45 678,90 SEK
+  TECH-2024-022  SW-DC-TOR-02  Datacenter  34 567,50 SEK
+  TECH-2024-040  RT-LAGER-01  Lager  28 765,50 SEK
+  TECH-2024-049  RT-MAL-01  Kontor Malmö  26 789,75 SEK
+  TECH-2024-037  RT-DR-01  Säkerhetskopia  24 567,25 SEK
+
+AVG RESOLUTION (MIN) PER SEVERITY
+--------------------------------------------------------------------------------
+critical: 131.0 min
+high    : 103.3 min
+medium  : 111.2 min
+low     : 110.0 min
+
+SUMMARY PER SITE
+--------------------------------------------------------------------------------
+Datacenter: 13 incidents  cost 139 996,40 SEK  avg res 110 min
+Huvudkontor: 13 incidents  cost 113 353,80 SEK  avg res 103,85 min
+Kontor Malmö: 9 incidents  cost 72 714,50 SEK  avg res 107,22 min
+Lager: 10 incidents  cost 78 129,40 SEK  avg res 127,3 min
+Säkerhetskopia: 7 incidents  cost 41 716,00 SEK  avg res 112,86 min
+
+CATEGORY IMPACT (AVG)
+--------------------------------------------------------------------------------
+hardware    :  9 st, avg impact 7.09
+connectivity: 14 st, avg impact 6.80
+wifi        :  9 st, avg impact 6.30
+performance : 14 st, avg impact 5.95
+security    :  6 st, avg impact 5.78
+
+================================================================================
+                                  RAPPORT SLUT                                  
+================================================================================
